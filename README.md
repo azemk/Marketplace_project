@@ -2,5 +2,5 @@
 
 
 <ul>
-  <li>GLOBUS</li>
+  <li>Spring Boot Marketplace Project</li>
  </ul>
